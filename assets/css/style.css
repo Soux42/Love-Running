@@ -15,12 +15,15 @@ body {
     flex-direction: column;
     /* Generic projet styles */
     color: #3a3a3a;
-    font-family: Lato, sans-serif;
+    font-family: 'Lato', sans-serif;
 }
 
 /* Header*/
 header {
  background-color: lightcoral;
+}
+h1 {
+    font-family: 'Oswald', sans-serif;
 }
 /* Main content*/
 main {
