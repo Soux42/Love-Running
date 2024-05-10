@@ -213,7 +213,7 @@ list-style-type:none;
 }
 @media screen and (min-width: 1200px) {
     /* Reasons sections */
-    #benefits{
+    #benefits {
         display: flex;
         flex-direction: row;
     }
@@ -224,7 +224,7 @@ list-style-type:none;
         order: 0;  
     }
     #benefits-mental {
-    order: 1;
+         order: 1;
     }
     #benefits-mental > div {
         align-self: flex-start;
